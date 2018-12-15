@@ -1,0 +1,6 @@
+#.project
+#.classpath
+#.settings
+#.gitgnore
+report
+.pytest_cache
